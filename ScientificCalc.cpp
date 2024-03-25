@@ -1,10 +1,11 @@
 #include <iostream>
-#include "SimpleCalc.h"
 
+#include "SimpleCalc.h"
+// using directive
 using namespace std;
 
-int main(){
-    SimpleCalculator Calculator;
+int main() {
+    SimpleCalc Calculator;
 
     char op;
     double num1,num2,result;
@@ -38,7 +39,30 @@ int main(){
         //return -1;
         return 0;
     }
-    cout << "Result: " << result << endl;
 
     return 0;
 }
+
+
+/*
+
+#include <iostream>
+
+
+using namespace std;
+
+int main(){
+    
+
+    */
+
+/*
+    
+    */
+/*
+    
+
+    cout << "Result: " << result << endl;
+
+    return 0;
+}*/
