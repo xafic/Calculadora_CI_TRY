@@ -39,30 +39,7 @@ int main() {
         //return -1;
         return 0;
     }
-
+    cout << "Result: " << result << endl;
     return 0;
 }
 
-
-/*
-
-#include <iostream>
-
-
-using namespace std;
-
-int main(){
-    
-
-    */
-
-/*
-    
-    */
-/*
-    
-
-    cout << "Result: " << result << endl;
-
-    return 0;
-}*/
