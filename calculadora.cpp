@@ -1,4 +1,0 @@
-#inclide <iostream>
-
-
-comedimmmmmmm
