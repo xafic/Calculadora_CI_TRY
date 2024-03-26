@@ -2,5 +2,6 @@
     "cSpell.words": [
         "SCIENTIFICCALC",
         "SIMPLECALC"
-    ]
+    ],
+    "C_Cpp.dimInactiveRegions": false
 }

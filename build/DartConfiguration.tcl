@@ -14,7 +14,7 @@ CostDataFile:
 Site: gon-alo-lopes-ThinkPad-T15p-Gen-2i
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-g++
+BuildName: Linux-c++
 
 # Subprojects
 LabelsForSubprojects: 
@@ -63,7 +63,7 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: /usr/bin/g++
+Compiler: /usr/bin/c++
 CompilerVersion: 13.2.0
 
 # Dynamic analysis (MemCheck)

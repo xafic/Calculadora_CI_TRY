@@ -4,11 +4,7 @@
 
 using namespace std;
 
-
-
-
-
-int main(int, char**){
+int main(){
     SimpleCalc SimpleCalculator;
     ScientificCalc ScientificCalculator;
 

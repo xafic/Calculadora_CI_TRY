@@ -26,9 +26,15 @@
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/ContinuousCoverage.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/ContinuousMemCheck.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/ContinuousSubmit.dir
-/home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/Calcul.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/main.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/tests.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/package.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/package_source.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/test.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/edit_cache.dir
 /home/gon-alo-lopes/learn/calculadora/calculadora/build/CMakeFiles/rebuild_cache.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/_deps/catch2-build/CMakeFiles/package.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/_deps/catch2-build/CMakeFiles/package_source.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/_deps/catch2-build/CMakeFiles/test.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/home/gon-alo-lopes/learn/calculadora/calculadora/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir

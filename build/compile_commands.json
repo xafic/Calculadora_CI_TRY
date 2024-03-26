@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/gon-alo-lopes/learn/calculadora/calculadora/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/Calcul.dir/main.cpp.o -c /home/gon-alo-lopes/learn/calculadora/calculadora/main.cpp",
-  "file": "/home/gon-alo-lopes/learn/calculadora/calculadora/main.cpp",
-  "output": "CMakeFiles/Calcul.dir/main.cpp.o"
-}
-]
