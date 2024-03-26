@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240326-1401-Experimental"
+	Name="gon-alo-lopes-ThinkPad-T15p-Gen-2i"
+	Generator="ctest-3.27.4"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.2.0"
+	OSName="Linux"
+	Hostname="gon-alo-lopes-ThinkPad-T15p-Gen-2i"
+	OSRelease="6.5.0-26-generic"
+	OSVersion="#26-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar  5 21:19:28 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="31806"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2819.62"
+	>
+	<Testing>
+		<StartDateTime>Mar 26 14:03 WET</StartDateTime>
+		<StartTestTime>1711461816</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 26 14:03 WET</EndDateTime>
+		<EndTestTime>1711461816</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
