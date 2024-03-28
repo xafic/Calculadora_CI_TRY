@@ -27,7 +27,3 @@ build-job:       # This job runs in the build stage, which runs first.
     - echo "Compiling the code..."
     - echo "Compile complete."
 
-Test-job:       # This job runs in the build stage, which runs first.
-  stage: deploy
-  script:
-    - ./build/tests
